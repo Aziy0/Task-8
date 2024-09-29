@@ -1,0 +1,11 @@
+Steps to create a free Microsoft Azure cloud account 
+
+1. Go to the official Azure free account page: https://azure.microsoft.com/free.
+2. Start Free Account 
+3.  Create a Microsoft Account
+4. Provide Personal Information
+5. Identity Verification
+     provide credit card details for identity verification purposes 
+6. Agree the Terms
+     After completing these steps, we can use Microsoft Azure free account.
+
